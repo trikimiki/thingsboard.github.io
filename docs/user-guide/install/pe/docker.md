@@ -29,6 +29,8 @@ See [How-to get pay-as-you-go subscription](https://www.youtube.com/watch?v=dK-Q
 
 Note: We will reference the license key you have obtained during this step as PUT_YOUR_LICENSE_SECRET_HERE later in this guide.
 
+test test 123
+
 ## Step 2. Choose ThingsBoard queue service
 
 {% include templates/install/install-queue.md %}
